@@ -1,0 +1,19 @@
+aiohttp
+asyncio
+dnspython
+fitz  # PyMuPDF
+fuzzywuzzy
+hashid
+iocextract
+json
+pdfplumber
+Pillow
+pytesseract
+requests
+sentence-transformers
+spacy
+torch
+torchvision
+torchaudio
+transformers
+urllib3
